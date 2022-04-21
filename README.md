@@ -1,0 +1,2 @@
+# QB_item_quick_report
+Use transactions in Quickbooks item quick report for favorable supply planning, including sales projection from previous year sales grouped by customers, Croston's method intermittent daily demand forecasting, and ARIMA forecasting on converted monthly sales. Comparing with all transactions, these analysis will focus on mainly domestic transactions for benefits on inventory planning at Phoenix location.
